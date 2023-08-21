@@ -15,7 +15,7 @@ import static org.mockito.Mockito.*;
 
 public class BatteryServiceImplTest {
 
-    private BatteryService batteryService;
+    private BatteryServiceImpl batteryService;
 
     @Mock
     private BatteryRepository batteryRepository;
